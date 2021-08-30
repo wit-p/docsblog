@@ -54,7 +54,7 @@ export default function Sidebar({ isMenuOpen }) {
     <Container isMenuOpen={isMenuOpen}>
       <LogoContainer>
         <Link to={basePath} aria-label="Go to home page">
-          <Logo aria-hidden="true" />
+          <h1 aria-hidden="true">PG Docs&Blog</h1>
         </Link>
       </LogoContainer>
       <nav>
