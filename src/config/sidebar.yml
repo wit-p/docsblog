@@ -37,6 +37,8 @@
   items:
     - label: "習慣化アプリの作り方"
       link: "/appsheet/howto"
+    - label: "SQ4Rアプリの作り方"
+      link: "/appsheet/sq4r"
     - label: "introduction"
       link: "/appsheet/introduction"
 - label: More
