@@ -41,7 +41,7 @@
       link: "/appsheet/howto"
     - label: "SQ4Rアプリの作り方"
       link: "/appsheet/sq4r"
-    - label: "Spec機能で日記アプリの作り方"
+    - label: "[前編]Spec機能を使った日記アプリの作り方"
       link: "/appsheet/spec"
     - label: "introduction"
       link: "/appsheet/introduction"
